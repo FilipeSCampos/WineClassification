@@ -166,6 +166,7 @@ A matriz de confusão é calculada para o último modelo da lista e é exibida c
 
 ![image](https://github.com/FilipeSCampos/WineClassification/assets/113521439/9c5c1904-3342-4516-acbe-6b5a387d5d49)
 
+![Capturar4](https://github.com/FilipeSCampos/WineClassification/assets/113521439/34b6b588-5b7f-4ab8-b54f-29f6be9dc190)
 
 
 
